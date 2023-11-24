@@ -66,8 +66,8 @@ Bava Jalal
 # License
 This project is licensed under Creative Commons Zero v1.0 Universal.
 # Acknowledgement
-This project is a result  of dedicated effort and commitment.
 
+I express my sincere gratitude to all team members who have contributed to this project by offering their time, insights, and expertise. Your dedication and effort have been invaluable in shaping and improving this repository.
 
 
 
