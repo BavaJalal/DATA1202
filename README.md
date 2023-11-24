@@ -48,6 +48,8 @@ Finding if newly created table has expected number of rows
 Make sure you have a MySQL database setup before deploying this script, and adjust the script's connection parameters. To load the data into the database, run the script after that.
 # Author
 Bava Jalal
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
 
