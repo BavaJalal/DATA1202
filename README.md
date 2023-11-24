@@ -44,6 +44,11 @@ Displaying the top 10 records from the new table
 ![image](https://github.com/BavaJalal/DATA1202/assets/151898946/644b7788-02eb-4d13-898c-e6a9616e3d5b)
 Finding if newly created table has expected number of rows
 ![image](https://github.com/BavaJalal/DATA1202/assets/151898946/af31c4fe-fcae-46e5-ad34-c1beb2c84ba6)
+# Deployment
+Make sure you have a MySQL database setup before deploying this script, and adjust the script's connection parameters. To load the data into the database, run the script after that.
+# Author
+Bava Jalal
+
 
 
 
