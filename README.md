@@ -10,6 +10,7 @@ Make sure you have installed the following:
 # insatalling 
  First, we imported required libraries
 ![image](https://github.com/BavaJalal/DATA1202/assets/151898946/75513b6d-6ebb-4a60-952a-31e7e1f96768)
+
 Now we are all set to do the youtube channel analysis
 you can downlaod the dataset from here: https://github.com/BavaJalal/DATA1202/edit/main/README.md
 # Running the analysis
@@ -63,7 +64,10 @@ Make sure you have a MySQL database setup before deploying this script, and adju
 # Author
 Bava Jalal
 # License
-This project is licensed under the Creative Commons Zero v1.0 Universal.
+This project is licensed under Creative Commons Zero v1.0 Universal.
+# Acknowledgement
+This project is a result  of dedicated effort and commitment.
+
 
 
 
