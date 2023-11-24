@@ -4,4 +4,6 @@ This Python script inserts the data into a MySQL database, analyzes YouTube chan
 # Getting Started
 # Prerequisites
 Make sure you have installed the following: 
-
+- Anaconda
+- Jupiter Notebook
+- MYSQL Workbench
